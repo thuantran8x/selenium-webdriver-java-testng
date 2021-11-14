@@ -33,7 +33,7 @@ public class Topic_01_Check_Environment {
 
 	@Test
 	public void TC_02() {
-		// Login Page title
+		// Login Page title test thu xem nao 
 		String loginPageTitle = driver.getTitle();
 		Assert.assertEquals(loginPageTitle, "Facebook – log in or sign up");
 	}
