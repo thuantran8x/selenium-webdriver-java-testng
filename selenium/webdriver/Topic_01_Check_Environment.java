@@ -40,6 +40,7 @@ public class Topic_01_Check_Environment {
 		System.out.println("abc");
 		System.out.println("aaa");
 		System.out.println("chic choe abc");
+		System.out.println("chic choe abc cde");
 		
 	}
 
