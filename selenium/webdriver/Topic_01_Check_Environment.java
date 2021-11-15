@@ -38,6 +38,7 @@ public class Topic_01_Check_Environment {
 		Assert.assertEquals(loginPageTitle, "Facebook – log in or sign up");
 		System.out.println("qua cho");
 		System.out.println("abc");
+		System.out.println("aaa");
 		
 	}
 
