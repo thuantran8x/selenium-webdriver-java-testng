@@ -37,6 +37,7 @@ public class Topic_01_Check_Environment {
 		String loginPageTitle = driver.getTitle();
 		Assert.assertEquals(loginPageTitle, "Facebook – log in or sign up");
 		System.out.println("qua cho");
+		System.out.println("abc");
 		
 	}
 
