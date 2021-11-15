@@ -36,7 +36,7 @@ public class Topic_01_Check_Environment {
 		// Login Page title test thu xem nao 
 		String loginPageTitle = driver.getTitle();
 		Assert.assertEquals(loginPageTitle, "Facebook – log in or sign up");
-		System.out.println("minh chao cac ban");
+		
 	}
 
 	@Test
